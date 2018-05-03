@@ -1,0 +1,3 @@
+C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Source\GitTest\GitTest.Build.cs
+C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Source\GitTest.Target.cs
+C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Source\GitTestEditor.Target.cs

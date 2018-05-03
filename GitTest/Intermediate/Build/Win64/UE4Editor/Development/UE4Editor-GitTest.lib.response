@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GitTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Intermediate\Build\Win64\UE4Editor\Development\GitTest\GitTest.cpp.obj"
+"C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Intermediate\Build\Win64\UE4Editor\Development\GitTest\GitTestGameModeBase.cpp.obj"
+"C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Intermediate\Build\Win64\UE4Editor\Development\GitTest\GitTest.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\GitTest\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\dumasc2943\Documents\Unreal Projects\GitTest\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-GitTest.lib"
