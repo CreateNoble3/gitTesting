@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GitTest.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{E7AF1B4A-2E65-4E88-AFA7-2A919B23246F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GitTest.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GitTestEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{1B72DE2C-96C5-4C4A-A47D-B08FF782A484}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GitTest">
+			<UniqueIdentifier>{7A396140-F619-4642-B25A-547D9CAE960A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GitTest\GitTest.Build.cs">
+			<Filter>Source\GitTest</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GitTest\GitTest.cpp">
+			<Filter>Source\GitTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GitTest\GitTest.h">
+			<Filter>Source\GitTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GitTest\GitTestGameModeBase.cpp">
+			<Filter>Source\GitTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GitTest\GitTestGameModeBase.h">
+			<Filter>Source\GitTest</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
